@@ -19,7 +19,7 @@ Stakeholders need a single place to track overall sales, profit, and quantity pe
 
 ## Dataset
 
-The [Sample Superstore](data/) dataset — a widely used retail dataset covering US orders (2020–2023) across Furniture, Office Supplies, and Technology, split into Customers, Orders, Products, and Location tables. Used here as practice data as part of Data With Baraa's *Tableau Ultimate Course*.
+I used the Sample Superstore dataset, a retail dataset covering US orders (2020–2023) across Furniture, Office Supplies, and Technology, split into Customers, Orders, Products, and Location tables.
 
 ## Tools & Technologies
 
