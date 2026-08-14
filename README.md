@@ -57,20 +57,6 @@ I used the Sample Superstore dataset, a retail dataset covering US orders (2020�
 
 🔗 **Live on Tableau Public:** [Sales & Customer Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17866215257280/SalesDashboard)
 
-## Key Insights
-
-- **Phones, Chairs, and Copiers** are the top sub-categories by 2023 sales; Copiers shows the strongest profit contribution among the leaders.
-- **Machines, Envelopes, and Fasteners** are generating losses despite producing sales — a sign of pricing or discounting issues in those sub-categories.
-- Purchase frequency is heavily skewed toward occasional buyers: **400 of 693 customers (58%)** placed only 1–2 orders in the year, while just **13 customers** placed 6 or more.
-- A small group of customers drives a disproportionate share of profit — the **top 10 customers by profit** are led by Raymond Buch ($6,781 profit on $14,203 in sales across 3 orders).
-- Weekly sales trend averages **$14K**, with profit averaging **$2K**, both trending upward through the second half of the year.
-
-## Business Recommendations
-
-- Review pricing/discount strategy for **Machines, Envelopes, and Fasteners** to address negative profit margins.
-- Design a retention/loyalty initiative targeting the ~58% of customers with only 1–2 annual orders to increase repeat purchase rate.
-- Prioritize account management for the top 10 profit-driving customers to protect and grow that segment.
-
 ## Repository Structure
 
 ```
