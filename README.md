@@ -59,20 +59,6 @@ The Sample Superstore dataset — US retail orders from 2020–2023 across Furni
 
 🔗 **Live on Tableau Public:** [Sales & Customer Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17866215257280/SalesDashboard)
 
-## A few things I noticed along the way
-
-- Phones, Chairs, and Copiers lead 2023 sales, and Copiers stands out with the strongest profit among them.
-- Machines, Envelopes, and Fasteners are actually losing money despite generating sales — worth a closer look at pricing or discounting there.
-- Most customers barely come back: 400 of 693 (58%) placed only 1–2 orders all year, while just 13 placed 6 or more.
-- A small group of customers accounts for a lot of the profit — the top 10 alone are led by Raymond Buch, who generated $6,781 in profit from $14,203 in sales across just 3 orders.
-- Weekly sales average around $14K, profit around $2K, and both trend upward through the back half of the year.
-
-## What I'd recommend
-
-- Look into pricing or discounts for Machines, Envelopes, and Fasteners — they're the only sub-categories losing money.
-- Some kind of retention push for the ~58% of customers who only order once or twice a year.
-- Keep close account management on the top 10 profit-driving customers — they matter disproportionately.
-
 ## Repository Structure
 
 ```
